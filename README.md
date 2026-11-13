@@ -37,6 +37,25 @@ I'm currently pursuing my Master of Computer Applications (MCA). I'm passionate 
 - Database Management
 - Machine Learning
 
+  ##  Featured Projects
+
+###  VOXPOP – College Online Voting System
+
+A web-based college online voting application developed as part of my BCA academic project using the MERN Stack.
+
+**Technologies Used:**
+- MongoDB
+- Express.js
+- React.js
+- Node.js
+
+**Project Highlights:**
+- Online college election management
+- Digital voting platform
+- Web-based application
+
+🔗 [View Project on GitHub](https://github.com/NandhanaCSudheer/VOXPOP-College-Online-Voting-System)
+
  **Projects**
 Check out my repositories to explore my academic and personal projects!
 
