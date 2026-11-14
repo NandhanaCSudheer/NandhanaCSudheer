@@ -39,6 +39,50 @@ I'm currently pursuing my Master of Computer Applications (MCA). I'm passionate 
 
   ##  Featured Projects
 
+  ### LogicPath – Interactive Digital Logic Design, Simulation and Optimization Platform
+
+An interactive web-based platform developed to design, simulate, validate, and optimize digital logic circuits.
+
+**Technologies Used:**
+
+- React.js
+- Python (Flask)
+- MongoDB
+- JavaScript
+
+**Project Highlights:**
+
+- Interactive digital logic circuit design and simulation.
+- Automatic truth table generation and circuit validation.
+- Boolean expression generation from logic circuits.
+- Circuit optimization using Boolean algebra laws.
+- User authentication and saved circuit management.
+
+🔗 [View Project on GitHub](YOUR_LOGICPATH_GITHUB_LINK)
+
+  ### SignBridge – Sign Language Recognition System
+
+A web-based sign language recognition application developed to recognize hand gestures using computer vision and machine learning techniques.
+
+**Technologies Used:**
+
+- React.js
+- TypeScript
+- Python
+- Flask
+- OpenCV
+- Google MediaPipe
+
+**Project Highlights:**
+
+- Real-time hand gesture recognition using a webcam.
+- Hand landmark detection using MediaPipe.
+- Hand gesture analysis using computer vision.
+- Integration of React frontend with Python Flask backend.
+- Interactive interface for sign language recognition.
+
+🔗 [View Project on GitHub](https://github.com/NandhanaCSudheer/Signbridge)
+
 ###  VOXPOP – College Online Voting System
 
 A web-based college online voting application developed as part of my BCA academic project using the MERN Stack.
